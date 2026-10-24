@@ -49,10 +49,10 @@ The client wanted to **grow sales by 25% without increasing the marketing budget
 
 ## Video Walkthroughs
 
-- ▶ Dashboard, desktop view: `<link>`
-- ▶ Dashboard, mobile view: `<link>`
-- ▶ DAX measures, schema and Power Query: `<link>`
-- ▶ Excel: Power Query, Power Pivot and formulas: `<link>`
+- ▶ Dashboard, desktop view: https://youtu.be/U88NvBqRqmM
+- ▶ DAX Measures & DOC Assessment: https://youtu.be/kM66UQYd6Aw
+- ▶ DAX measures, schema and Power Query: https://youtu.be/919vq1OO2hc
+- ▶ Excel: Power Query, Power Pivot and formulas: https://youtu.be/bjYAysMMeuM
 
 ## Repository Contents
 
