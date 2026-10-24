@@ -1,5 +1,6 @@
 # Ad Spend Audit & Budget Reallocation: Facebook vs Google
 
+[![Dashboard Walkthrough](https://img.youtube.com/vi/U88NvBqRqmM/maxresdefault.jpg)](https://youtu.be/U88NvBqRqmM)
 > **₹62.8L ad spend audited. Google returned a ROAS of 5.86 against Facebook's 1.89, yet Facebook received 93.67% of the budget.**
 
 **Tools:** Power BI (DAX, Power Query) · Excel (Power Query, Power Pivot) · Facebook & Google Ads data · Shopify sales data
