@@ -45,7 +45,28 @@ The client wanted to **grow sales by 25% without increasing the marketing budget
 - Star schema: a central `DateTable` linked to three fact tables (Facebook, Google, Shopify)
 - **70 DAX measures** and 2 calculated columns, fully documented in `DAX_Measures.xlsx`
 
-![Dashboard](screenshots/dashboard-1.png)
+## Dashboard Preview
+
+### 1. Executive Overview
+![Executive Overview](screenshots/1_Executive_Overview.png)
+
+### 2. Channel Performance
+![Channel Performance](screenshots/2_Channel%20Performance.png)
+
+### 3. Campaign Performance
+![Campaign Performance](screenshots/3_Campaign_Performance.png)
+
+### 4. Ad Set Performance
+![Ad Set Performance](screenshots/4_Ad_Set_Performance.png)
+
+### 5. Ad Creative Performance
+![Ad Creative Performance](screenshots/5_Ad_Creative_Performance.png)
+
+### 6. Funnel and Efficiency
+![Funnel and Efficiency](screenshots/6_Funnel_and_Efficiency.png)
+
+### 7. Budget Reallocation and Growth Plan
+![Budget Reallocation and Growth Plan](screenshots/7_Budget_Reallocation_Growth_Plan.png)
 
 ## Video Walkthroughs
 
